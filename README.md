@@ -15,24 +15,8 @@ Neste projeto, adquiri conhecimento sobre como usar a JPA para mapear objetos Ja
 
 ## Estrutura do Projeto
 
-├── src<br>
-│   ├── main<br>
-│   │   ├── java<br>
-│   │   │   ├── com<br>
-│   │   │   │   ├── stun106<br>
-│   │   │   │   │   ├── dao<br>
-│   │   │   │   │   |   ├── CategoryDao.java<br>
-|   |   |   |   |   |   ├── ProductDao.java<br>
-│   │   │   │   │   ├── models<br>
-│   │   │   │   │   │   ├── Category.java<br>
-│   │   │   │   │   │   ├── Product.java<br>
-│   │   │   │   │   ├── util<br>
-│   │   │   │   │   │   ├── JpaUtil.java<br>
-│   │   │   │   │   ├── Main.java<br>
-│   ├── resources<br>
-│   │   ├── META-INF<br>
-│   │   │   ├── persistence.xml<br>
-├── README.md<br>
+![image](https://github.com/stun106/-Java-Persistence-API-JPA-/assets/99427933/c41a62cc-7080-4034-934d-2120c40dbd6d)
+
 
 ## Recursos de Aprendizado
 
