@@ -21,7 +21,7 @@ Neste projeto, adquiri conhecimento sobre como usar a JPA para mapear objetos Ja
 │   │   │   ├── com<br>
 │   │   │   │   ├── stun106<br>
 │   │   │   │   │   ├── dao<br>
-│   │   │   │   │   |   ├── CategoryDao.java <br>
+│   │   │   │   │   |   ├── CategoryDao.java<br>
 |   |   |   |   |   |   ├── ProductDao.java<br>
 │   │   │   │   │   ├── models<br>
 │   │   │   │   │   │   ├── Category.java<br>
