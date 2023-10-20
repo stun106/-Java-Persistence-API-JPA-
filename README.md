@@ -15,24 +15,24 @@ Neste projeto, adquiri conhecimento sobre como usar a JPA para mapear objetos Ja
 
 ## Estrutura do Projeto
 
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   ├── com
-│   │   │   │   ├── stun106
-│   │   │   │   │   ├── dao
-│   │   │   │   │   |   ├── CategoryDao.java 
-|   |   |   |   |   |   ├── ProductDao.java
-│   │   │   │   │   ├── models
-│   │   │   │   │   │   ├── Category.java
-│   │   │   │   │   │   ├── Product.java
-│   │   │   │   │   ├── util
-│   │   │   │   │   │   ├── JpaUtil.java
-│   │   │   │   │   ├── Main.java
-│   ├── resources
-│   │   ├── META-INF
-│   │   │   ├── persistence.xml
-├── README.md
+├── src<br>
+│   ├── main<br>
+│   │   ├── java<br>
+│   │   │   ├── com<br>
+│   │   │   │   ├── stun106<br>
+│   │   │   │   │   ├── dao<br>
+│   │   │   │   │   |   ├── CategoryDao.java <br>
+|   |   |   |   |   |   ├── ProductDao.java<br>
+│   │   │   │   │   ├── models<br>
+│   │   │   │   │   │   ├── Category.java<br>
+│   │   │   │   │   │   ├── Product.java<br>
+│   │   │   │   │   ├── util<br>
+│   │   │   │   │   │   ├── JpaUtil.java<br>
+│   │   │   │   │   ├── Main.java<br>
+│   ├── resources<br>
+│   │   ├── META-INF<br>
+│   │   │   ├── persistence.xml<br>
+├── README.md<br>
 
 ## Recursos de Aprendizado
 
