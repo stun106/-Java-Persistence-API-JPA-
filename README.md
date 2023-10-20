@@ -1,4 +1,4 @@
-# Projeto de Estudo: JPA Sem Framework
+# Projeto de Estudo: Java Persistence API (JPA)
 
 Este é um projeto de estudo onde explorei o Java Persistence API (JPA) para a persistência de dados em um aplicativo Java sem a utilização de um framework ORM (Object-Relational Mapping). O objetivo deste projeto foi entender os conceitos fundamentais da JPA e sua aplicação em um ambiente Java puro.
 
